@@ -1,4 +1,4 @@
-//yesterday maximum sleep time I can get 
+//Given working schedule, calculate the maximum break time a person can get.
 
 #include <string>
 #include <sstream>
